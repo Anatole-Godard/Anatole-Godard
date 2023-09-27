@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Anatole-Godard?style=social)](https://github.com/Anatole-Godard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anatole-blue?logo=linkedin)](https://www.linkedin.com/in/anatole-godard)
 
-Hi 👋 I am Anatole, a full-stack developer based in Rouen, France. I work at REDLab while pursuing a Master's degree in the field through a work-study program🌱.
+Hi 👋 I am Anatole, a full-stack developer based in Paris, France. I work at Bankin' while pursuing a Master's degree in the field through a work-study program🌱.
 
 ## 💻 Skills
 
