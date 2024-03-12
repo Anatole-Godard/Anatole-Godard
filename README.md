@@ -1,7 +1,8 @@
 # Anatole - Full Stack Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/Anatole-Godard?style=social)](https://github.com/Anatole-Godard)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anatole-blue?logo=linkedin)](https://www.linkedin.com/in/anatole-godard)
+[![image](https://img.shields.io/badge/MY%20RESUME-254DD1?style=for-the-badge&logo=me&logoColor=white)](https://read.cv/4natole)
+[![image](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anatole-Godard)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatole-godard)
 
 Hi 👋 I am Anatole, a full-stack developer based in Paris, France. I work at Bankin' while pursuing a Master's degree in the field through a work-study program🌱.
 
