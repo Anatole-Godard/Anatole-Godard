@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anatole-Godard)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatole-godard)
 
-Hi 👋 I am Anatole, a full-stack developer based in Paris, France. I work at Bankin' while pursuing a Master's degree in the field through a work-study program🌱.
+Hello! I'm Anatole, a Front-end developer based in Paris, France, working at Stokelp. 🌱
 
 ## 💻 Skills
 
