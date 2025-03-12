@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anatole-Godard)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatole-godard)
 
-Hello! I'm Anatole, a Front-end developer based in Paris, France, working at Stokelp. 🌱
+Hello! I'm Anatole, a Front-end Tech Lead based in Paris, France, working at Stokelp. 🌱
 
 ## 💻 Skills
 
@@ -13,18 +13,18 @@ I have expertise in the following technologies:
 - JavaScript, TypeScript
 - React
 - Node.js, Next.js
-- Go, Java, C#, PHP
+- Go, Java, PHP
 - MySQL, PostgreSQL
 
 ## 🛠️ Tools of the Trade 
 
 Here are some of the tools I regularly use:
 
-- 🚀 JetBrains Suite and Vim as text editors: for a smooth and fast coding experience
-- 🐧 Ubuntu/Windows as operating systems: for their flexibility and power
-- 💻 GitHub for hosting code: for easy collaboration and code sharing
-- 📝 Notion for taking notes: for organizing my thoughts and tasks
-- 📈 Jira for project management: for tracking and managing ongoing projects
+🚀 JetBrains Suite as my text editor: for a smooth and efficient coding experience
+🐧 Mac & Linux as operating systems: for their flexibility and power
+💻 GitHub for version control: for easy collaboration and code sharing
+📝 Notion for note-taking: for organizing my thoughts and tasks
+📈 Jira & Linear for project management: for tracking and managing ongoing projects
 
 ## Contact 🔗
 
