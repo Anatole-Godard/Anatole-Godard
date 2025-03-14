@@ -20,10 +20,10 @@ I have expertise in the following technologies:
 
 Here are some of the tools I regularly use:
 
-🚀 JetBrains Suite as my text editor: for a smooth and efficient coding experience
-🐧 Mac & Linux as operating systems: for their flexibility and power
-💻 GitHub for version control: for easy collaboration and code sharing
-📝 Notion for note-taking: for organizing my thoughts and tasks
+🚀 JetBrains Suite as my text editor: for a smooth and efficient coding experience  
+🐧 Mac & Linux as operating systems: for their flexibility and power  
+💻 GitHub for version control: for easy collaboration and code sharing  
+📝 Notion for note-taking: for organizing my thoughts and tasks  
 📈 Jira & Linear for project management: for tracking and managing ongoing projects
 
 ## Contact 🔗
