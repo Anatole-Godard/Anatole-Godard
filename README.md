@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Anatole-Godard)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatole-godard)
 
-Hello! I'm Anatole, a Front-end Tech Lead based in Paris, France, working at Stokelp. 🌱
+Hello! I'm Anatole, a Front-end Dev based in Paris, France, working at Winamax.
 
 ## 💻 Skills
 
@@ -13,7 +13,7 @@ I have expertise in the following technologies:
 - JavaScript, TypeScript
 - React
 - Node.js, Next.js
-- Go, Java, PHP
+- Go, Java, Python, PHP
 - MySQL, PostgreSQL
 
 ## 🛠️ Tools of the Trade 
